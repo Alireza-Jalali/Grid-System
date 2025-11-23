@@ -28,11 +28,12 @@ Wrap your content inside a .row, and use .col-x classes to define column widths:
 📐 Breakpoints
 
 You can customize breakpoints inside the CSS file. Default values:
+```
 	•	col-xs → mobile
 	•	col-sm- → small devices
 	•	col-md- → medium devices
 	•	col-lg- → large devices
 	•	col-xl- → extra large devices
-  •	col-xxl- → extra extra large devices
-
+  	•	col-xxl- → extra extra large devices
+```
 I hope this project is useful and practical for you.
