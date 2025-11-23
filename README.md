@@ -13,18 +13,18 @@ This grid system allows you to structure your page using simple class-based colu
 📦 Installation
 
 Simply download and include the grid stylesheet in your project:
-
+```
 <link rel="stylesheet" href="grid.css">
-
+```
 🚀 Usage
 
 Wrap your content inside a .row, and use .col-x classes to define column widths:
-
+```
 <div class="row">
   <div class="col-md-6">Column 1</div>
   <div class="col-md-6">Column 2</div>
 </div>
-
+```
 📐 Breakpoints
 
 You can customize breakpoints inside the CSS file. Default values:
