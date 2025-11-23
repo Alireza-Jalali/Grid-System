@@ -2,14 +2,14 @@ Responsive Grid System
 
 A lightweight and flexible CSS grid system designed to help you build responsive web layouts with ease.
 This grid system allows you to structure your page using simple class-based columns that automatically adjust across different screen sizes.
-
+```
 ✨ Features
 	•	Fully responsive
 	•	Easy to use class-based structure
 	•	Supports custom column widths
 	•	Lightweight and framework-agnostic
 	•	Ideal for quick prototyping or production use
-
+```
 📦 Installation
 
 Simply download and include the grid stylesheet in your project:
