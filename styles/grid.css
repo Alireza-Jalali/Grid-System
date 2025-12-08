@@ -1,3 +1,5 @@
+/* standard media query for responsive design */
+
 .container{
     max-width: 1400px;
     margin: 0 auto;
@@ -19,7 +21,7 @@
     padding: 0 1rem;
 }
 
-/* Extra small */
+/* For mobile phones (portrait) */
 @media only screen and (min-width: 0px){
     .xs-hidden{
         display: none;
@@ -102,7 +104,7 @@
     }
 }
 
-/* Small */
+/* For mobile phones (landscape) */
 @media only screen and (min-width: 576px){
     .sm-hidden{
         display: none;
@@ -185,7 +187,7 @@
     }
 }
 
-/* Medium */
+/* For tablets */
 @media only screen and (min-width: 768px){
     .md-hidden{
         display: none;
@@ -268,7 +270,7 @@
     }
 }
 
-/* Large */
+/* For laptops */
 @media only screen and (min-width: 992px){
     .lg-hidden{
         display: none;
@@ -351,7 +353,7 @@
     }
 }
 
-/* Extra large */
+/* For desktops */
 @media only screen and (min-width: 1200px){
     .xl-hidden{
         display: none;
@@ -434,7 +436,7 @@
     }
 }
 
-/* Extra extra large */
+/* For large desktops */
 @media only screen and (min-width: 1400px){
     .xxl-hidden{
         display: none;
